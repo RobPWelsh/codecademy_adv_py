@@ -1,0 +1,24 @@
+Starting Division!
+6.0
+3.0
+Starting Division!
+6.0
+0.0
+Attempting to divide by 0!
+The result value is None!
+Starting Division!
+6.0
+0.0
+Attempting to divide by 0!
+The result value is None!
+[2023-03-27 06:53:05,332] {DEBUG} __main__: #57 - Starting Division!
+[2023-03-27 06:53:09,443] {INFO} __main__: #60 - 6.0
+[2023-03-27 06:53:11,547] {INFO} __main__: #62 - 3.0
+[2023-04-03 06:19:29,541] {DEBUG} __main__: #60 - Starting Division!
+[2023-04-03 06:19:35,787] {INFO} __main__: #63 - 6.0
+[2023-04-03 06:19:37,250] {INFO} __main__: #65 - 0.0
+[2023-04-03 06:19:37,250] {ERROR} __main__: #70 - Attempting to divide by 0!
+[2023-04-03 06:19:37,250] {WARNING} __main__: #78 - The result value is None!
+[2023-04-03 06:19:37,250] {INFO} __main__: #119 - Hello! Welcome to the ATM Depot!
+[2023-04-03 06:19:51,963] {INFO} __main__: #138 - Amount Deposited: $2.0
+[2023-04-03 06:19:55,338] {INFO} __main__: #157 - You withdrew: $3.0
